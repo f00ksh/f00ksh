@@ -1,14 +1,3 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0e75b6&height=200&section=header&text=Hi%20I'm%20Fouda%20(@f00ksh)&fontSize=40&fontColor=ffffff" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%9A%80;Ex-Civil+Engineer+turned+Coder+%F0%9F%9A%A7;Firebase+%7C+Supabase+%7C+REST+APIs+%F0%9F%94%8E;Building+beautiful+UIs+with+Flutter+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
----
 
 ### 🧑‍💻 About Me
 
